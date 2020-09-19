@@ -1,0 +1,7 @@
+.gradle
+.nb-gradle
+build/
+
+
+# Ignore Gradle build output directory
+build
